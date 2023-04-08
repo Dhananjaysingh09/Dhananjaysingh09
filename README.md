@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/86a8987e01ec606e185e1f179415bf77babb8c082aa134ed3e767e93304edc29/68747470733a2f2f747261696e696e67732e696e7465726e7368616c612e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032322f31312f446174612d536369656e63652d42616e6e65722d30312e6a7067)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMZZQNuEfhZaSOjkXUEYQg3yTsCAMQek4XmOBbztwU66qksdzI6wTRW7cLteCvUVCao5wGqqeBM59UKITaxLHDWtf40X4scb1XTcC207GKRBuJ1NlcPBr5eIWAJWzvSNZxXLJsMYlJzivwy6xicrR6DzgDJ5BKX_z-oQPGcxF_ZbPYwLv5X59jES0/s16000/Data-Science-Banner-01.jpg)
 
 <h1 align="center">Hi 👋, I'm Dhananjay Singh</h1>
 <h3 align="center">A passionate About Data Analytics, Data Science, ML,DL from India</h3>

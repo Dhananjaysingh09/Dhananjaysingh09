@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMZZQNuEfhZaSOjkXUEYQg3yTsCAMQek4XmOBbztwU66qksdzI6wTRW7cLteCvUVCao5wGqqeBM59UKITaxLHDWtf40X4scb1XTcC207GKRBuJ1NlcPBr5eIWAJWzvSNZxXLJsMYlJzivwy6xicrR6DzgDJ5BKX_z-oQPGcxF_ZbPYwLv5X59jES0/s16000/Data-Science-Banner-01.jpg)
+![MasterHead](https://drive.google.com/file/d/11VQg11xfuHVepkj_wV1HSuhsi15VbgMi/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Dhananjay Singh</h1>
 <h3 align="center">A passionate About Data Analytics, Data Science, ML,DL from India</h3>

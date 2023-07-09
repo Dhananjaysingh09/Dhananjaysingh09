@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg91Br4OhPKydL1eEVxN4q-S1G8oE-cAN-CG5AzPNptMZXW6lcAzvEeCOvBxCD4l_WAC_Z9Jrde4htpNt6EwF9xVBflbCwfua0lE7g8rqCatxt7KAhNrjBKUytTxuGdqveacafnwzEV_m6EM6ayAvw_X1cs3-rAEtCMy2LkENK7NEGHmTwMiiTWtGRB2g/s16000/Digital%20Dhananjay%20(9).png)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7-r1Lpl99L1P4RwQPZIaS33-JTn7E8UbLuZ7urvjKOevhPwINgHka8bZ4ghjRHCERrnTSx4UThhq9k6Tdm63xyEo66Uj5mswCNskrkJP_EdeDEbXsBlt90baKVVZgv--qA4vpIP5sd7pwGdMbz-218HNpPq-admha7K-FZY-hDarfICGl0ctPIztUzA/s16000/Digital%20Dhananjay%20(9).png)
 
 <h1 align="center">Hi 👋, I'm Dhananjay Singh</h1>
 <h3 align="center">A passionate About Data Analytics, Data Science, ML,DL from India</h3>

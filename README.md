@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dhananjaysingh001122@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_zapdyz35Qlc_TywhQkTNBckVTOf73Vc/view?usp=sharing](https://drive.google.com/file/d/1_zapdyz35Qlc_TywhQkTNBckVTOf73Vc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_zapdyz35Qlc_TywhQkTNBckVTOf73Vc/view?usp=sharing](https://drive.google.com/file/d/1kuINhYMwuXhq8k7kgpRxGn_KXJcdlmGA/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
